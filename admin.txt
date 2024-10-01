@@ -1,0 +1,3 @@
+user = Dashboard
+email = samir.salekar97@gmail.com
+password = Samir@97
